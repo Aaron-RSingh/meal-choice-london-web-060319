@@ -4,6 +4,6 @@ def meal_choice(meal=nil)
   if meal
     "#{meal}"
   else
-    "meat}"
+    "meat"
   end
 end
